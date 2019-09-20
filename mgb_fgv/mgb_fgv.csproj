@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{1558BEB9-C56F-442E-A2F0-5CA77569A6DD}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>mgb_fgv</RootNamespace>
-    <AssemblyName>mgb_fgv</AssemblyName>
+    <RootNamespace>fgv</RootNamespace>
+    <AssemblyName>fgv</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
